@@ -1,4 +1,4 @@
-# Data Science for Biomarker Discovery
+# Data Science for Biomarkers Discovery
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
