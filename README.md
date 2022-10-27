@@ -1,7 +1,6 @@
 # Data Science for Biomarkers Discovery
 
-Dr. Saed Sayad 
-bioada.com
+Dr. Saed Sayad
 
 The advent of multi-omics technologies (e.g., genomics, transcriptomics, proteomics, and metabolomics) has brought the hope of discovering novel biomarkers that can be used to diagnosis, prognosis, and treatment of diseases. Data science has an important role in identifying biomarkers (biological markers) using data from Microarray and RNA-Seq experiments. In this hands-on tutorial, you will learn how to use data science and transcriptomic data to discover biomarkers for diagnosis, prognosis, response to treatment, monitoring and risk assessment.
 
