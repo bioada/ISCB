@@ -1,4 +1,4 @@
-# FIXME Tutorial Name xxx
+# Data Science for Biomarker Discovery
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
