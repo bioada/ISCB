@@ -1,10 +1,10 @@
 # Data Science for Biomarkers Discovery
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+Dr. Saed Sayad 
 
-FIXME description about the Tutorial
+The advent of multi-omics technologies (e.g., genomics, transcriptomics, proteomics, and metabolomics) has brought the hope of discovering novel biomarkers that can be used to diagnosis, prognosis, and treatment of diseases. Data science has an important role in identifying biomarkers (biological markers) using data from Microarray and RNA-Seq experiments. In this hands-on tutorial, you will learn how to use data science and transcriptomic data to discover biomarkers for diagnosis, prognosis, response to treatment, monitoring and risk assessment.
 
-**Time/Date:** FIXME
+November 2, 2022 at 3:00 PM UTC
 
 ## Contributing :hearts:
 - If you like it, leave your star in this project :star2:
