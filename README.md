@@ -13,7 +13,7 @@ November 2, 2022 at 3:00 PM UTC
 
 ## Citation
 
-If you use any of teh materials of this lesson, please cite as:
+If you use any of the materials of this lesson, please cite as:
 > FIXME
 
 ## License
