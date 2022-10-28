@@ -19,21 +19,37 @@ Please make sure you have R (https://www.r-project.org/) and RStudio (https://ww
 Writing and mainting R or Python codes is a time consuming task. I demonstrate a new amchine learning platform for the omics data analysis which saves your time and resources significantly.
 
 Please make sure you have installed the following R libraries:
+
 library(data.table)
+
 library(formattable)
+
 library(plotrix)
+
 library(limma)
+
 library(dplyr)
+
 library(Rtsne)
+
 library(MASS)
+
 library(xgboost)
+
 library(rafalib)
+
 library(factoextra)
+
 library(caTools)
+
 library(pROC)
+
 library(caret)
+
 library(gains)
+
 library(lift)
+
 
 ## Contributing :hearts:
 - If you like it, leave your star in this project :star2:
