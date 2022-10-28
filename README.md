@@ -7,6 +7,7 @@ The advent of multi-omics technologies (e.g., genomics, transcriptomics, proteom
 November 2, 2022 at 3:00 PM UTC
 
 Workshop Outline:
+
 1- Presentation (30 minutes) 
 We are going to have a short presentation on the important role of data science 6-step process flow for biomarker discovery
 
